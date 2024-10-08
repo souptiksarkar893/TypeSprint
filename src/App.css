@@ -1,0 +1,46 @@
+.typing-area {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.words-display {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  min-height: 150px;
+  background-color: #f8f9fa;
+}
+
+.correct-word {
+  color: green;
+}
+
+.incorrect-word {
+  color: red;
+}
+
+.timer {
+  font-size: 1.5rem;
+  color: red;
+  margin-top: 10px;
+}
+
+.stats {
+  margin-top: 20px;
+}
+
+input {
+  font-size: 1.5rem;
+  padding: 10px;
+  width: 100%;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
